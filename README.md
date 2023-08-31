@@ -1,6 +1,7 @@
 
 # Airplane-Crash-Dashboard
-[Airplane Crash Dashboard.pdf](https://github.com/Rbfrnsh/Airplane-Crash-Dashboard/files/12483777/Airplane.Crash.Dashboard.pdf)
+![Airplane Crash Dashboard_page-0001](https://github.com/Rbfrnsh/Airplane-Crash-Dashboard/assets/89909357/60deacee-bca1-408e-ae84-3a68dab912e8)
+
 this mini project to see information about Airplane crash case that happened throughout year 1918-2022
 This dataset contains all of the plane crashes that happened throughout history. 
 Data is extracted using web scraping methods in R and preprocessed to create an organized and informative dataset.
